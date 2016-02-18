@@ -1,0 +1,19 @@
+
+.box {
+	width: 600px;
+    border: 2px solid #CCC;
+}
+.caja {
+	height: 100px;
+	width: 25%;
+ 	overflow: auto;
+}
+.amarilla {
+	background: #FFFF00;
+}
+.azul{
+	background: #3A81BA;
+}
+.rosada{
+	background: #ED2251;
+}
